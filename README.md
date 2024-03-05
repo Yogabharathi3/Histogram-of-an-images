@@ -79,14 +79,14 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 ![WhatsApp Image 2024-03-05 at 12 37 09 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/90eb0069-54c3-4cb4-a33e-520cb9864dfa)
-
-![WhatsApp Image 2024-03-05 at 12 38 07 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/a725d9bc-bbb0-41f7-9855-f4b2b57ba951)
+![WhatsApp Image 2024-03-05 at 12 37 54 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/75f31777-0817-4095-9fd7-69c0ca648ccb)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![WhatsApp Image 2024-03-05 at 12 37 36 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/56e42ee0-c87c-484c-84f0-e5bdf132b6b6)
 ![WhatsApp Image 2024-03-05 at 12 38 35 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/cbbb1b5e-ad0d-46b9-9ad6-6e1ee954263c)
+![WhatsApp Image 2024-03-05 at 12 38 07 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/a725d9bc-bbb0-41f7-9855-f4b2b57ba951)
 ![WhatsApp Image 2024-03-05 at 12 38 23 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/4f9008b5-3ab8-4dda-b964-2898fc3110ed)
-![WhatsApp Image 2024-03-05 at 12 37 54 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/75f31777-0817-4095-9fd7-69c0ca648ccb)
+
 ### Histogram Equalization of Grayscale Image.
 ![WhatsApp Image 2024-03-05 at 12 38 51 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/2c0d7815-e421-4f58-a0fe-abc8cf728c95)
 ![WhatsApp Image 2024-03-05 at 12 38 44 PM](https://github.com/Yogabharathi3/Histogram-of-an-images/assets/118899387/ca4640d0-9e72-4c1c-a54a-f6ceb2226ad8)
